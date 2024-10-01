@@ -1,1 +1,3 @@
 # react
+
+.NET 7
