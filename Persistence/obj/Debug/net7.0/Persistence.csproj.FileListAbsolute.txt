@@ -1,0 +1,15 @@
+/Users/dcdevio/Source/Repos/react/Persistence/bin/Debug/net7.0/Persistence.deps.json
+/Users/dcdevio/Source/Repos/react/Persistence/bin/Debug/net7.0/Persistence.dll
+/Users/dcdevio/Source/Repos/react/Persistence/bin/Debug/net7.0/Persistence.pdb
+/Users/dcdevio/Source/Repos/react/Persistence/bin/Debug/net7.0/Domain.dll
+/Users/dcdevio/Source/Repos/react/Persistence/bin/Debug/net7.0/Domain.pdb
+/Users/dcdevio/Source/Repos/react/Persistence/obj/Debug/net7.0/Persistence.csproj.AssemblyReference.cache
+/Users/dcdevio/Source/Repos/react/Persistence/obj/Debug/net7.0/Persistence.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dcdevio/Source/Repos/react/Persistence/obj/Debug/net7.0/Persistence.AssemblyInfoInputs.cache
+/Users/dcdevio/Source/Repos/react/Persistence/obj/Debug/net7.0/Persistence.AssemblyInfo.cs
+/Users/dcdevio/Source/Repos/react/Persistence/obj/Debug/net7.0/Persistence.csproj.CoreCompileInputs.cache
+/Users/dcdevio/Source/Repos/react/Persistence/obj/Debug/net7.0/Persistence.csproj.CopyComplete
+/Users/dcdevio/Source/Repos/react/Persistence/obj/Debug/net7.0/Persistence.dll
+/Users/dcdevio/Source/Repos/react/Persistence/obj/Debug/net7.0/refint/Persistence.dll
+/Users/dcdevio/Source/Repos/react/Persistence/obj/Debug/net7.0/Persistence.pdb
+/Users/dcdevio/Source/Repos/react/Persistence/obj/Debug/net7.0/ref/Persistence.dll

@@ -1,0 +1,12 @@
+/Users/dcdevio/Source/Repos/react/Domain/bin/Debug/net7.0/Domain.deps.json
+/Users/dcdevio/Source/Repos/react/Domain/bin/Debug/net7.0/Domain.dll
+/Users/dcdevio/Source/Repos/react/Domain/bin/Debug/net7.0/Domain.pdb
+/Users/dcdevio/Source/Repos/react/Domain/obj/Debug/net7.0/Domain.csproj.AssemblyReference.cache
+/Users/dcdevio/Source/Repos/react/Domain/obj/Debug/net7.0/Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dcdevio/Source/Repos/react/Domain/obj/Debug/net7.0/Domain.AssemblyInfoInputs.cache
+/Users/dcdevio/Source/Repos/react/Domain/obj/Debug/net7.0/Domain.AssemblyInfo.cs
+/Users/dcdevio/Source/Repos/react/Domain/obj/Debug/net7.0/Domain.csproj.CoreCompileInputs.cache
+/Users/dcdevio/Source/Repos/react/Domain/obj/Debug/net7.0/Domain.dll
+/Users/dcdevio/Source/Repos/react/Domain/obj/Debug/net7.0/refint/Domain.dll
+/Users/dcdevio/Source/Repos/react/Domain/obj/Debug/net7.0/Domain.pdb
+/Users/dcdevio/Source/Repos/react/Domain/obj/Debug/net7.0/ref/Domain.dll
