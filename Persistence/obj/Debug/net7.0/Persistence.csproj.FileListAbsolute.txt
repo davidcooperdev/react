@@ -13,3 +13,5 @@
 /Users/dcdevio/Source/Repos/react/Persistence/obj/Debug/net7.0/refint/Persistence.dll
 /Users/dcdevio/Source/Repos/react/Persistence/obj/Debug/net7.0/Persistence.pdb
 /Users/dcdevio/Source/Repos/react/Persistence/obj/Debug/net7.0/ref/Persistence.dll
+/Users/dcdevio/Source/Repos/react/Persistence/bin/Debug/net7.0/Persistence.runtimeconfig.json
+/Users/dcdevio/Source/Repos/react/Persistence/obj/Debug/net7.0/Persistence.genruntimeconfig.cache
