@@ -10,3 +10,5 @@
 /Users/dcdevio/Source/Repos/react/Domain/obj/Debug/net7.0/refint/Domain.dll
 /Users/dcdevio/Source/Repos/react/Domain/obj/Debug/net7.0/Domain.pdb
 /Users/dcdevio/Source/Repos/react/Domain/obj/Debug/net7.0/ref/Domain.dll
+/Users/dcdevio/Source/Repos/react/Domain/bin/Debug/net7.0/Domain.runtimeconfig.json
+/Users/dcdevio/Source/Repos/react/Domain/obj/Debug/net7.0/Domain.genruntimeconfig.cache

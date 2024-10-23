@@ -15,3 +15,5 @@
 /Users/dcdevio/Source/Repos/react/Application/obj/Debug/net7.0/refint/Application.dll
 /Users/dcdevio/Source/Repos/react/Application/obj/Debug/net7.0/Application.pdb
 /Users/dcdevio/Source/Repos/react/Application/obj/Debug/net7.0/ref/Application.dll
+/Users/dcdevio/Source/Repos/react/Application/bin/Debug/net7.0/Application.runtimeconfig.json
+/Users/dcdevio/Source/Repos/react/Application/obj/Debug/net7.0/Application.genruntimeconfig.cache
