@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "0OPp/xbZRQas308FWa753s0ZQVpPs+CZyQ17pOSnAUDwZsoE0JU03SLuR30ARVnETtKlyprY0u/p0qz5zKevXg==",
+  "dgSpecHash": "p0Ro9e8v+wr4dvg8dM18+EInnBPVjlYI0l2oHBluKE2I+WM7xk5rcgvQSN63WbH5f3exTRzZVIdDnctWH8vcog==",
   "success": true,
   "projectFilePath": "/Users/dcdevio/Source/Repos/react/API/API.csproj",
   "expectedPackageFiles": [
     "/Users/dcdevio/.nuget/packages/humanizer.core/2.14.1/humanizer.core.2.14.1.nupkg.sha512",
-    "/Users/dcdevio/.nuget/packages/microsoft.aspnetcore.openapi/7.0.2/microsoft.aspnetcore.openapi.7.0.2.nupkg.sha512",
+    "/Users/dcdevio/.nuget/packages/microsoft.aspnetcore.openapi/7.0.20/microsoft.aspnetcore.openapi.7.0.20.nupkg.sha512",
     "/Users/dcdevio/.nuget/packages/microsoft.data.sqlite.core/7.0.20/microsoft.data.sqlite.core.7.0.20.nupkg.sha512",
     "/Users/dcdevio/.nuget/packages/microsoft.entityframeworkcore/7.0.20/microsoft.entityframeworkcore.7.0.20.nupkg.sha512",
     "/Users/dcdevio/.nuget/packages/microsoft.entityframeworkcore.abstractions/7.0.20/microsoft.entityframeworkcore.abstractions.7.0.20.nupkg.sha512",

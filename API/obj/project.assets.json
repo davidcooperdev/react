@@ -15,7 +15,7 @@
           }
         }
       },
-      "Microsoft.AspNetCore.OpenApi/7.0.2": {
+      "Microsoft.AspNetCore.OpenApi/7.0.20": {
         "type": "package",
         "dependencies": {
           "Microsoft.OpenApi": "1.4.3"
@@ -675,6 +675,8 @@
         "framework": ".NETCoreApp,Version=v7.0",
         "dependencies": {
           "Domain": "1.0.0",
+          "Microsoft.EntityFrameworkCore": "7.0.20",
+          "Microsoft.EntityFrameworkCore.Sqlite": "7.0.20",
           "Persistence": "1.0.0"
         },
         "compile": {
@@ -687,6 +689,10 @@
       "Domain/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore": "7.0.20",
+          "Microsoft.EntityFrameworkCore.Sqlite": "7.0.20"
+        },
         "compile": {
           "bin/placeholder/Domain.dll": {}
         },
@@ -730,10 +736,10 @@
         "logo.png"
       ]
     },
-    "Microsoft.AspNetCore.OpenApi/7.0.2": {
-      "sha512": "oK0ZRloonE/WDAjHniF2gTbSsTUk5Z26RGN/o6MSlOnrnN12lDMBgpP1o9QbByBLCIRwT/KYvgYeBrYSe/NFnw==",
+    "Microsoft.AspNetCore.OpenApi/7.0.20": {
+      "sha512": "coCi7bh16o4B2qKbD7fng+4m1vu51L9MzTW+9NZp3NvLgAurDMT1kOg2uuycCN4BtEz3EYXlfJMJ2hK6EU7ISQ==",
       "type": "package",
-      "path": "microsoft.aspnetcore.openapi/7.0.2",
+      "path": "microsoft.aspnetcore.openapi/7.0.20",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -741,7 +747,7 @@
         "THIRD-PARTY-NOTICES.TXT",
         "lib/net7.0/Microsoft.AspNetCore.OpenApi.dll",
         "lib/net7.0/Microsoft.AspNetCore.OpenApi.xml",
-        "microsoft.aspnetcore.openapi.7.0.2.nupkg.sha512",
+        "microsoft.aspnetcore.openapi.7.0.20.nupkg.sha512",
         "microsoft.aspnetcore.openapi.nuspec"
       ]
     },
@@ -1799,7 +1805,7 @@
   "projectFileDependencyGroups": {
     "net7.0": [
       "Application >= 1.0.0",
-      "Microsoft.AspNetCore.OpenApi >= 7.0.2",
+      "Microsoft.AspNetCore.OpenApi >= 7.0.20",
       "Microsoft.EntityFrameworkCore >= 7.0.20",
       "Microsoft.EntityFrameworkCore.Design >= 7.0.20",
       "Microsoft.EntityFrameworkCore.Sqlite >= 7.0.20",
@@ -1850,7 +1856,7 @@
         "dependencies": {
           "Microsoft.AspNetCore.OpenApi": {
             "target": "Package",
-            "version": "[7.0.2, )"
+            "version": "[7.0.20, )"
           },
           "Microsoft.EntityFrameworkCore": {
             "target": "Package",
