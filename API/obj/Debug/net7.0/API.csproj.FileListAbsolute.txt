@@ -73,3 +73,6 @@
 /Users/dcdevio/Source/Repos/react/API/obj/Debug/net7.0/API.pdb
 /Users/dcdevio/Source/Repos/react/API/obj/Debug/net7.0/API.genruntimeconfig.cache
 /Users/dcdevio/Source/Repos/react/API/obj/Debug/net7.0/ref/API.dll
+/Users/dcdevio/Source/Repos/react/API/bin/Debug/net7.0/MediatR.dll
+/Users/dcdevio/Source/Repos/react/API/bin/Debug/net7.0/MediatR.Contracts.dll
+/Users/dcdevio/Source/Repos/react/API/bin/Debug/net7.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
