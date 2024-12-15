@@ -20,6 +20,7 @@ builder.Services.AddCors(opt => {
         policy.AllowAnyHeader().AllowAnyMethod().WithOrigins("http://localhost:3000");
     });
 });
+builder.Services.AddMediatR(config => config.RegisterServicesFromAssembly(typeof(Application.Activities.List.Handler).Assembly));
 
 var app = builder.Build();
 
