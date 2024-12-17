@@ -4,6 +4,7 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using Persistence;
 using MediatR;
+//using Details;
 
 namespace API.Controllers;
 
@@ -24,8 +25,9 @@ public class ActivitiesController : BaseApiController
     [HttpGet("{id}")]
     public async Task<ActionResult<Domain.Activity>> GetActivity(Guid id)
     {
-        //return await this.context.Activities.FindAsync(id);
-        return Ok();
+        return await Mediator.Send(new Application.Activities.Details.Query{Id = id });
+
+        //return Ok();
     }
 
 }
