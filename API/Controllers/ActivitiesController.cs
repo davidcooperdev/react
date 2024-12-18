@@ -30,4 +30,12 @@ public class ActivitiesController : BaseApiController
         //return Ok();
     }
 
+    [HttpPost]
+    public async Task<IActionResult> CreateActivity(Domain.Activity activity)
+    {
+        await Mediator.Send(new Application.Activities.Create.Command {Activity = activity});
+        
+        return Ok();
+    }
+
 }
