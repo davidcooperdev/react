@@ -38,4 +38,12 @@ public class ActivitiesController : BaseApiController
         return Ok();
     }
 
+    [HttpPut]
+    public async Task<IActionResult> EditActivity(Guid id, Domain.Activity activity)
+    {
+        activity.Id = id;
+        await Mediator.Send(new Application.Activities.Edit.Command { Activity = activity });
+        return Ok();
+    }
+
 }
