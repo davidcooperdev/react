@@ -21,6 +21,7 @@ builder.Services.AddCors(opt => {
     });
 });
 builder.Services.AddMediatR(config => config.RegisterServicesFromAssembly(typeof(Application.Activities.List.Handler).Assembly));
+builder.Services.AddAutoMapper(typeof(Application.Core.MappingProfiles).Assembly);
 
 var app = builder.Build();
 

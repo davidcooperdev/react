@@ -1,13 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "8trO8ClPO48jadDtiwrcdTZdoRa3E5YI7S8wQ2wO+Clu2ox1lc78TlZo5uLgiijuFwd1MDGoJ47zOvlk5V/wSA==",
+  "dgSpecHash": "3g1DAkGf84NnaQL0fYshTRMNBlOcIDBc2o1ELb6t+OGmzAdIm1mKy2lgLHvIdggM1Fzesx0B74uY3JXBF3utVQ==",
   "success": true,
   "projectFilePath": "/Users/dcdevio/Source/Repos/react/API/API.csproj",
   "expectedPackageFiles": [
+    "/Users/dcdevio/.nuget/packages/automapper/12.0.1/automapper.12.0.1.nupkg.sha512",
+    "/Users/dcdevio/.nuget/packages/automapper.extensions.microsoft.dependencyinjection/12.0.1/automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
     "/Users/dcdevio/.nuget/packages/humanizer.core/2.14.1/humanizer.core.2.14.1.nupkg.sha512",
     "/Users/dcdevio/.nuget/packages/mediatr/12.4.1/mediatr.12.4.1.nupkg.sha512",
     "/Users/dcdevio/.nuget/packages/mediatr.contracts/2.0.1/mediatr.contracts.2.0.1.nupkg.sha512",
     "/Users/dcdevio/.nuget/packages/microsoft.aspnetcore.openapi/7.0.20/microsoft.aspnetcore.openapi.7.0.20.nupkg.sha512",
+    "/Users/dcdevio/.nuget/packages/microsoft.csharp/4.7.0/microsoft.csharp.4.7.0.nupkg.sha512",
     "/Users/dcdevio/.nuget/packages/microsoft.data.sqlite.core/7.0.20/microsoft.data.sqlite.core.7.0.20.nupkg.sha512",
     "/Users/dcdevio/.nuget/packages/microsoft.entityframeworkcore/7.0.20/microsoft.entityframeworkcore.7.0.20.nupkg.sha512",
     "/Users/dcdevio/.nuget/packages/microsoft.entityframeworkcore.abstractions/7.0.20/microsoft.entityframeworkcore.abstractions.7.0.20.nupkg.sha512",
