@@ -17,10 +17,11 @@ public static class ApplicationServiceExtensions
             opt.UseSqlite(config.GetConnectionString("DefaultConnection"));
 
         });
-        services.AddCors(opt => {
+        services.AddCors(opt =>
+        {
             opt.AddPolicy("CorsPolicy", policy =>
             {
-                policy.AllowAnyHeader().AllowAnyMethod().WithOrigins("http://localhost:3000");
+                policy.AllowAnyHeader().AllowAnyMethod().WithOrigins("http://127.0.0.1:3000");
             });
         });
         services.AddMediatR(config => config.RegisterServicesFromAssembly(typeof(Application.Activities.List.Handler).Assembly));
